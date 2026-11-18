@@ -87,7 +87,7 @@ nvm use 26.5.0
 1. **Clonar o repositório e acessar a pasta da UI:**
 
    ```bash
-   git clone https://github.com/DiegoSantos18/NATIVE.CustomerManagement.UI.git
+   git clone https://github.com/SantosDiego-DEV/NATIVE.CustomerManagement.UI.git
    cd NATIVE.CustomerManagement.UI
    ```
 
