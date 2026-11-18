@@ -16,16 +16,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DiegoSantos18/NATIVE.CustomerManagement.UI.git"
+    "url": "git+https://github.com/SantosDiego-DEV/NATIVE.CustomerManagement.UI.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "module",
   "bugs": {
-    "url": "https://github.com/DiegoSantos18/NATIVE.CustomerManagement.UI/issues"
+    "url": "https://github.com/SantosDiego-DEV/NATIVE.CustomerManagement.UI/issues"
   },
-  "homepage": "https://github.com/DiegoSantos18/NATIVE.CustomerManagement.UI#readme",
+  "homepage": "https://github.com/SantosDiego-DEV/NATIVE.CustomerManagement.UI#readme",
   "dependencies": {
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.1",
